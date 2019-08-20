@@ -1,0 +1,15 @@
+.cja{
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+}
+.cja2{
+  margin: 1%;
+  padding: 2%;
+  border-radius: 5px;
+}
+p{
+  font-size: 20px;
+  font-weight: bold;
+}
